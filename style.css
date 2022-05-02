@@ -205,6 +205,7 @@ padding: 10px;
 .last{
     margin-left: -40%;
     margin-top: 4%;
+    overflow: hidden;
 
 }
 .lastphoto{
